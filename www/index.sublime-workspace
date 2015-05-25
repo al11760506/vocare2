@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"qry",
+				"qry_user_new"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"guard",
+				"guardar1"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"id",
+				"id_usuario"
+			],
+			[
+				"preguntas",
+				"preguntasis"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"obj",
+				"objResponse2"
+			],
+			[
+				"ob",
+				"objResponse1"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"border",
+				"border-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/proyecto05/css/menu2.css",
+		"/C/xampp/htdocs/proyecto05/css/style.css",
+		"/C/xampp/htdocs/proyecto05/sucursales.php",
+		"/C/xampp/htdocs/proyecto05/pizzas.php",
+		"/C/xampp/htdocs/proyecto05/nosotros.php",
+		"/C/xampp/htdocs/proyecto05/n_usuario.php",
+		"/C/xampp/htdocs/proyecto05/reservar.php",
+		"/C/xampp/htdocs/proyecto05/index.html",
+		"/C/xampp/htdocs/proyecto03/index.php",
+		"/C/xampp/htdocs/pizza21/n_usuario.php",
+		"/C/xampp/htdocs/proyecto05/img/menu1.gif",
+		"/C/xampp/htdocs/myapp2/platforms/android/cordova/build",
+		"/C/xampp/htdocs/myapp2/platforms/android/cordova/node_modules/q/q.js",
+		"/C/xampp/htdocs/pizza21/css/menu2.css",
+		"/C/xampp/htdocs/pizza21/menu.html",
+		"/C/xampp/htdocs/test/www/css/index.css",
+		"/C/xampp/htdocs/proyecto05/css/record.css",
+		"/C/Users/ivan/.cordova/lib/npm_cache/cordova-android/3.6.4/package/bin/lib/check_reqs.js",
+		"/C/xampp/htdocs/api/conect.php",
+		"/C/xampp/htdocs/myapp2/www/templates/tab-account.html",
+		"/C/xampp/htdocs/myapp2/www/templates/tab-dash.html",
+		"/C/xampp/htdocs/proyecto05/guardar.php",
+		"/C/xampp/htdocs/itetest/index.php",
+		"/C/xampp/htdocs/itetest/class/class.db.php",
+		"/C/xampp/htdocs/itetest/config/config.inc.php",
+		"/C/xampp/htdocs/itetest/index.html",
+		"/C/xampp/htdocs/itetest/config.inc.php",
+		"/C/xampp/htdocs/test/www/index.html",
+		"/C/xampp/htdocs/itetest/connect.php",
+		"/C/xampp/htdocs/itetest/resultados.php",
+		"/C/xampp/htdocs/pizza2/n_usuario.php",
+		"/C/xampp/htdocs/pizza2/guardar.php",
+		"/C/Users/ivan/Desktop/preguntas.csv",
+		"/C/xampp/htdocs/pizza2/colonias.php",
+		"/C/xampp/htdocs/pizza2/css/style.css",
+		"/C/xampp/htdocs/pizza2/css/record.css",
+		"/C/xampp/htdocs/pizza3/n_usuario.php",
+		"/C/xampp/htdocs/proyecto04/index.html",
+		"/C/xampp/htdocs/proyecto04/style.css",
+		"/C/xampp/htdocs/pizza3/index.html",
+		"/C/xampp/htdocs/pizza3/index (2).html",
+		"/C/xampp/htdocs/pizza3/css/style.css",
+		"/C/xampp/htdocs/pizza3/css/record.css",
+		"/C/xampp/htdocs/pizza2/index.html",
+		"/C/xampp/htdocs/myapp2/www/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chocolate",
+			"coral",
+			"BlanchedAlmond ",
+			"YellowGreen",
+			"LightSalmon",
+			"Introdusca"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Cornsilk",
+			"Chocolate ",
+			"coral",
+			"BlanchedAlmond ",
+			"YellowGreen",
+			"Indique"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
